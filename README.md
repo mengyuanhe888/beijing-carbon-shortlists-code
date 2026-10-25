@@ -2,6 +2,8 @@
 
 Analysis code accompanying *Sensitivity and stability of subdistrict carbon-emission shortlists under district-level statistical constraints: Evidence from Beijing*.
 
+Repository: [https://github.com/mengyuanhe888/beijing-carbon-shortlists-code](https://github.com/mengyuanhe888/beijing-carbon-shortlists-code).
+
 We compare subdistrict allocations, shortlist membership, and electricity-and-heat reallocation under citywide and district-level constraints. The implementation uses the study's 343 subdistricts and seven annual observations per subdistrict (2016–2022).
 
 ## Contents
